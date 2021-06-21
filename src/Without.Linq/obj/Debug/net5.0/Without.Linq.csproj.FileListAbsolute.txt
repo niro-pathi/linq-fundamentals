@@ -1,0 +1,15 @@
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/bin/Debug/net5.0/Without.Linq.deps.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/bin/Debug/net5.0/Without.Linq.runtimeconfig.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/bin/Debug/net5.0/Without.Linq.runtimeconfig.dev.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/bin/Debug/net5.0/Without.Linq.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/bin/Debug/net5.0/ref/Without.Linq.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/bin/Debug/net5.0/Without.Linq.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.csproj.AssemblyReference.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.AssemblyInfoInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.AssemblyInfo.cs
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.csproj.CoreCompileInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/ref/Without.Linq.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Without.Linq/obj/Debug/net5.0/Without.Linq.genruntimeconfig.cache
