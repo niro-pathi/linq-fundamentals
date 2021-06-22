@@ -1,0 +1,15 @@
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Linq.Sample01.deps.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Linq.Sample01.runtimeconfig.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Linq.Sample01.runtimeconfig.dev.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Linq.Sample01.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/ref/Linq.Sample01.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Linq.Sample01.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.csproj.AssemblyReference.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.AssemblyInfoInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.AssemblyInfo.cs
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.csproj.CoreCompileInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/ref/Linq.Sample01.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Linq.Sample01.genruntimeconfig.cache
