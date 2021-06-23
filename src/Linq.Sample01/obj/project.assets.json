@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/Linq.Sample01.csproj",
-      "projectName": "Linq.Sample01",
-      "projectPath": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/Linq.Sample01.csproj",
+      "projectUniqueName": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/Employee.csproj",
+      "projectName": "Employee",
+      "projectPath": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/Employee.csproj",
       "packagesPath": "/Users/np351100/.nuget/packages/",
       "outputPath": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/",
       "projectStyle": "PackageReference",

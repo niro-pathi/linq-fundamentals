@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QHDa6qWjy/9k+zTOxWKFqCATs0auY+3geihNR4HF9qKrXtv7oKfl0OAGGBFOLdRDZmizoF/g9jlfvNDOL1cww==",
+  "dgSpecHash": "EAWex+1KyAC9EkBaS5nJdDvupM0HVc4g1KseVBRUjK8JG7gbK/IqGuUPOgRLZw1O19K2+szmJNA17KkJYmtfRg==",
   "success": true,
-  "projectFilePath": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/Linq.Sample01.csproj",
+  "projectFilePath": "/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/Employee.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
