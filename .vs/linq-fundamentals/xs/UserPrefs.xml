@@ -1,19 +1,20 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D93F7EA0-EC2B-49E8-9F41-E7B32027F849}|Default">
   <MonoDevelop.Ide.ItemProperties.src.Cars FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.src.Movie FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Cars/Program.cs">
     <Files>
-      <File FileName="src/Cars/Program.cs" Line="51" Column="26" />
-      <File FileName="src/Cars/Cars.cs" Line="35" Column="1" />
+      <File FileName="src/Cars/Program.cs" Line="160" Column="1" />
+      <File FileName="src/Cars/Manufacturer.cs" Line="12" Column="1" />
+      <File FileName="src/Cars/Cars.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="linq-fundamentals" expanded="True" selected="True">
+          <Node name="linq-fundamentals" expanded="True">
             <Node name="src" expanded="True">
-              <Node name="Cars" expanded="True" />
-              <Node name="Movie" expanded="True" />
-              <Node name="Without.Linq" expanded="True" />
+              <Node name="Cars" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="test" expanded="True" />
           </Node>

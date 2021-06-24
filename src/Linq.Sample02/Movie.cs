@@ -1,0 +1,10 @@
+﻿using System;
+namespace Linq.Sample02
+{
+    public class Movie
+    {
+        public string Title { get; set; }
+        public float Rating { get; set; }
+        public int Year { get; set; }
+    }
+}

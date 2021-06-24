@@ -1,0 +1,15 @@
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Employee.deps.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Employee.runtimeconfig.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Employee.runtimeconfig.dev.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Employee.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/ref/Employee.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/bin/Debug/net5.0/Employee.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.csproj.AssemblyReference.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.AssemblyInfoInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.AssemblyInfo.cs
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.csproj.CoreCompileInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/ref/Employee.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Linq.Sample01/obj/Debug/net5.0/Employee.genruntimeconfig.cache

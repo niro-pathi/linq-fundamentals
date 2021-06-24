@@ -1,0 +1,17 @@
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.csproj.AssemblyReference.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.AssemblyInfoInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.AssemblyInfo.cs
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.csproj.CoreCompileInputs.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/fuel.csv
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/Cars.deps.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/Cars.runtimeconfig.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/Cars.runtimeconfig.dev.json
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/Cars.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/ref/Cars.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/Cars.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/ref/Cars.dll
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.pdb
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/obj/Debug/net5.0/Cars.genruntimeconfig.cache
+/Users/np351100/apps/DotNetProjects/linq-fundamentals/src/Cars/bin/Debug/net5.0/manufacturers.csv
